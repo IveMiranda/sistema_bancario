@@ -1,6 +1,2 @@
 # sistema_bancario
-Sistema bancário versão 2 - acréscimo das seguintes funções:
-inclusão de usuários;
-filtrar usuários;
-criar novas contas;
-listar contas.
+Sistema bancário versão 3 - POO.
